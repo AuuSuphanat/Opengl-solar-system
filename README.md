@@ -39,9 +39,8 @@ This is the final project for IT356 course.
    cmake ..
    ```
 6. Build the project:
-   ```
-   cmake --build .
-   ```
+   - Command line: `cmake --build .`
+   - Or, for Windows users with Visual Studio: Open the generated `.sln` file in Visual Studio and build the solution.
 
 ## Usage
 Run the generated executable to start the simulation. Use mouse and keyboard controls to navigate the camera and observe the solar system.
